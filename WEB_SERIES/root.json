@@ -3,27 +3,27 @@
 		"src": "https://user-images.githubusercontent.com/41512314/51789319-b4546780-21ad-11e9-8188-290c5da36c2c.jpg",
 		"title": "Girls like Magic",
 		"subTitle": "Girls like Magic  EPISODE 2",
-		"UID": "_id_girls_like_magic"
+		"UID": "id_girls_like_magic"
 	}, {
 		"src": "https://user-images.githubusercontent.com/41512314/51789320-b4546780-21ad-11e9-80e8-83541224498e.jpg",
 		"title": "Gul Sanobar",
 		"subTitle": "Gul Sanobar EPISODE 11",
-		"UID": "_id_gul_sanobar"
+		"UID": "id_gul_sanobar"
 
 	}, {
 		"src": "https://user-images.githubusercontent.com/41512314/51789321-b4ecfe00-21ad-11e9-9ff2-7ae609443b48.jpg",
 		"title": "Pyar ki Maramat",
 		"subTitle": "Nalayaks EPISODE 4",
-		"UID": "_id_pyar_ki_maramat"
+		"UID": "id_pyar_ki_maramat"
 	}, {
 		"src": "https://user-images.githubusercontent.com/41512314/51789322-b4ecfe00-21ad-11e9-8227-9465cc13bf93.jpg",
 		"title": "I m Pregnant",
 		"subTitle": "The Better Half EPISODE 4",
-		"UID": "_id_i_m_pregnant"
+		"UID": "id_i_m_pregnant"
 	}, {
 		"src": "https://user-images.githubusercontent.com/41512314/51789323-b5859480-21ad-11e9-8baf-474ec3b19902.jpg",
 		"title": "Mohabbat Karna Mana Hai",
 		"subTitle": "Mohabbat Karna Mana Hai EPISODE 8",
-		"UID": "_id_mbt_krna_mana_hai"
+		"UID": "id_mbt_krna_mana_hai"
 	}]
 }
