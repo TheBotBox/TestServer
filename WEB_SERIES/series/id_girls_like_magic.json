@@ -1,8 +1,57 @@
 {
-
-"UID":"id_girls_like_magic"
-
-
-
-
+	"title": "Girls Like Magic",
+	"subTitle": "SEASON 1 - ENGLISH",
+	"cast": "Cast: Shantell Yasmine, Abeydeera, Dominic Adams, Silvia Baldassini",
+	"genre": "Romance",
+	"rating": "3.9",
+	"views": "1.8M",
+	"description":"Girls like Magic' explores the blurring lines of the friendship between MAGIC, a naive people-pleasing Brit and JAMIE, a hard-edged, self-sabotaging lesbian as they fall for each other in more ways than one.",
+	"src":"https://user-images.githubusercontent.com/41512314/52180562-e6994100-280d-11e9-8a20-25827b1050bc.jpg",
+	"episodes": [{
+		"title": "Mohabbat Karna Mana Hai",
+		"subTitle": "EPISODE 0",
+		"length": "1:32",
+		"yt_id": "MabOHhnw5dM"
+	}, {
+		"title": "Mohabbat Karna Mana Hai",
+		"subTitle": "EPISODE 1",
+		"length": "42:47",
+		"yt_id": "_FHROUJACd8"
+	}, {
+		"title": "Mohabbat Karna Mana Hai",
+		"subTitle": "EPISODE 2",
+		"length": "43:39",
+		"yt_id": "dqEqG82M2Iw"
+	}, {
+		"title": "Mohabbat Karna Mana Hai",
+		"subTitle": "EPISODE 3",
+		"length": "42:08",
+		"yt_id": "XeRgN0uqj4o"
+	}, {
+		"title": "Mohabbat Karna Mana Hai",
+		"subTitle": "EPISODE 4",
+		"length": "42:48",
+		"yt_id": "lkjSIb1INdE"
+	}, {
+		"title": "Mohabbat Karna Mana Hai",
+		"subTitle": "EPISODE 5",
+		"length": "41:43",
+		"yt_id": "KB7CmkmThRE"
+	}, {
+		"title": "Mohabbat Karna Mana Hai",
+		"subTitle": "EPISODE 6",
+		"length": "42:46",
+		"yt_id": "v3czInCvFLI"
+	}, {
+		"title": "Mohabbat Karna Mana Hai",
+		"subTitle": "EPISODE 7",
+		"length": "41:19",
+		"yt_id": "rLKdB4VLkPo"
+	}, {
+		"title": "Mohabbat Karna Mana Hai",
+		"subTitle": "EPISODE 8",
+		"length": "41:24",
+		"yt_id": "FJKJ_dAYFsY"
+	}],
+	"UID": "id_mbt_krna_mana_hai"
 }
