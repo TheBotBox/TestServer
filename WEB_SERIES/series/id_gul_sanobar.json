@@ -1,4 +1,77 @@
 {
-"UID":"id_gul_sanobar"
-
+	"title": "Gul Sanobar",
+	"subTitle": "SEASON 1 - HINDI",
+	"cast": "Cast: Saeed Jaffery, Seema Kapoor, Parikshat Sahni, Aashif Sheikh",
+	"genre": "Classic",
+	"rating": "2.3",
+	"views": "3.7M",
+	"description":"Mubarak (Kader) kidnaps Sanobar (Mohammed), the son of the king of Yemen (Peerjan) and raises him in the forest.",
+	"src":"https://user-images.githubusercontent.com/41512314/52180808-c7e87980-2810-11e9-90ba-6bf1dac85543.jpg",
+	"episodes": [{
+		"title": "Trailer",
+		"subTitle": "EPISODE 0",
+		"length": "0:58",
+		"yt_id": "V7WKhrv_aEA"
+	}, {
+		"title": "Gul Sanobar",
+		"subTitle": "EPISODE 1",
+		"length": "20:14",
+		"yt_id": "9UYMUuYRr3c"
+	},{
+		"title": "Gul Sanobar",
+		"subTitle": "EPISODE 2",
+		"length": "19:54",
+		"yt_id": "VqSS5geTETQ"
+	},{
+		"title": "Gul Sanobar",
+		"subTitle": "EPISODE 3",
+		"length": "19:12",
+		"yt_id": "IyrsFU8IQPw"
+	},{
+		"title": "Gul Sanobar",
+		"subTitle": "EPISODE 4",
+		"length": "19:36",
+		"yt_id": "CQxIevfEILg"
+	},{
+		"title": "Gul Sanobar",
+		"subTitle": "EPISODE 5",
+		"length": "20:05",
+		"yt_id": "y9ZHgqR9ciA"
+	},{
+		"title": "Gul Sanobar",
+		"subTitle": "EPISODE 6",
+		"length": "19:35",
+		"yt_id": "znkmOYRIXRA"
+	},{
+		"title": "Gul Sanobar",
+		"subTitle": "EPISODE 7",
+		"length": "19:55",
+		"yt_id": "1OADmc5C194"
+	},{
+		"title": "Gul Sanobar",
+		"subTitle": "EPISODE 8",
+		"length": "19:51",
+		"yt_id": "55TN7HHXAqg"
+	},{
+		"title": "Gul Sanobar",
+		"subTitle": "EPISODE 9",
+		"length": "19:42",
+		"yt_id": "bYp4WLlrdIw"
+	},{
+		"title": "Gul Sanobar",
+		"subTitle": "EPISODE 10",
+		"length": "19:57",
+		"yt_id": "kC-g_q7ONB0"
+	},{
+		"title": "Gul Sanobar",
+		"subTitle": "EPISODE 11",
+		"length": "19:15",
+		"yt_id": "IDSs2A1GQ8E"
+	},{
+		"title": "Gul Sanobar",
+		"subTitle": "EPISODE 12",
+		"length": "19:50",
+		"yt_id": "IDSs2A1GQ8E"
+	}],
+	"UID": "id_gul_sanobar"
 }
