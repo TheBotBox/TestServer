@@ -1,0 +1,27 @@
+{
+	"title": "Girls Hostel",
+	"subTitle": "SEASON 1 - HINDI",
+	"cast": "Cast: Ahsaas Channa, Srishti Shrivastava, Parul Gulati",
+	"genre": "Comedy",
+	"rating": "4.9",
+	"views": "108.1M",
+	"description":"Richa wants to live life by her terms and she starts this journey in SVM's Dental College Girls hostel. On her first day she meets sweet and innocent Milli but she doesnt anticipate that she would meet Jo and Zahira, her seniors who rule over the hostel",
+	"src":"https://user-images.githubusercontent.com/41512314/52175340-37864680-27c8-11e9-8522-d41a330ff69e.jpg",
+	"episodes": [{
+		"title": "The Bra Chor",
+		"subTitle": "EPISODE 1",
+		"length": "20:41",
+		"yt_id": "iP2mL74yVB4"
+	}, {
+		"title": "The Fashion Shutdown",
+		"subTitle": "EPISODE 2",
+		"length": "21:29",
+		"yt_id": "aLVBV-O4d0c"
+	}, {
+		"title": "The Midnight Plan",
+		"subTitle": "EPISODE 3",
+		"length": "21:45",
+		"yt_id": "c3bdeEhahSc"
+	}],
+	"UID": "id_girls_hostel"
+}
