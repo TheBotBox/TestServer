@@ -1,5 +1,17 @@
 {
-	"top_banner": [{
+	"top_banner": [ {
+		"src": "https://user-images.githubusercontent.com/41512314/51789323-b5859480-21ad-11e9-8baf-474ec3b19902.jpg",
+		"title": "Mohabbat Karna Mana Hai",
+		"subTitle": "Mohabbat Karna Mana Hai EPISODE 8",
+		"UID": "id_mohabbat_karna_mana_hai"
+	}],
+
+	"all_series": [{
+		"src": "https://user-images.githubusercontent.com/41512314/52175340-37864680-27c8-11e9-8522-d41a330ff69e.jpg",
+		"title": "Girls Hostel",
+		"subTitle": "Ahsaas Channa, Srishti",
+		"UID": "id_girls_hostel"
+	},{
 		"src": "https://user-images.githubusercontent.com/41512314/52180708-b5ba0b80-280f-11e9-98bb-0c544e56f89e.jpg",
 		"title": "Girls like Magic",
 		"subTitle": "Girls like Magic  EPISODE 2",
@@ -20,21 +32,5 @@
 		"title": "I m Pregnant",
 		"subTitle": "The Better Half EPISODE 4",
 		"UID": "id_i_m_pregnant"
-	}, {
-		"src": "https://user-images.githubusercontent.com/41512314/51789323-b5859480-21ad-11e9-8baf-474ec3b19902.jpg",
-		"title": "Mohabbat Karna Mana Hai",
-		"subTitle": "Mohabbat Karna Mana Hai EPISODE 8",
-		"UID": "id_mohabbat_karna_mana_hai"
-	}],
-
-	"all_series": [{
-		"src": "https://user-images.githubusercontent.com/41512314/52175340-37864680-27c8-11e9-8522-d41a330ff69e.jpg",
-		"title": "Girls Hostel",
-		"subTitle": "Ahsaas Channa, Srishti",
-		"UID": "id_girls_hostel"
-	}, {
-
-	}, {
-
 	}]
 }
