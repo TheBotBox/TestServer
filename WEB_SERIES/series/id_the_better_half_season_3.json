@@ -1,4 +1,32 @@
 {
-
-"UID":"id_the_better_half_season_3"
+	"title": "The Better Half",
+	"subTitle": "SEASON 3 - HINDI",
+	"cast": "Cast: Chhavi Mittal, Karan V Grover",
+	"genre": "Comedy",
+	"rating": "3.2",
+	"views": "8.3M",
+	"description":"Freshly back from the family vacation, Rohini has been brainwashed by her mother and sister-in-law that extending the family is the next right step for Rishi and Rohini.",
+	"src":"https://user-images.githubusercontent.com/41512314/52175340-37864680-27c8-11e9-8522-d41a330ff69e.jpg",
+	"episodes": [{
+		"title": "To Have Or Not To Have",
+		"subTitle": "EPISODE 1",
+		"length": "7:27",
+		"yt_id": "2tNzs7Gwgl4"
+	}, {
+		"title": "Biwi Se Switch Off",
+		"subTitle": "EPISODE 2",
+		"length": "12:15",
+		"yt_id": "1FpapUGVKXs"
+	},{
+		"title": "I m Pregnant",
+		"subTitle": "EPISODE 3",
+		"length": "8:04",
+		"yt_id": "wYJdoA6GEv4"
+	},{
+		"title": "Pregnancy Mein Hota Hai",
+		"subTitle": "EPISODE 4",
+		"length": "8:50",
+		"yt_id": "5VJrmg1zbl8"
+	}],
+	"UID": "id_the_better_half_season_3"
 }
