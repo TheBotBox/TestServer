@@ -1,5 +1,62 @@
 {
-
-"UID":"id_the_better_half_season_2"
-
+	"title": "The Better Half",
+	"subTitle": "SEASON 2 - HINDI",
+	"cast": "Cast: Chhavi Mittal, Karan V Grover",
+	"genre": "Entertainment",
+	"rating": "3",
+	"views": "2.7M",
+	"description":"Women are often worried about what is going to happen in the future, near or far. They are in fact so worried that they forget to enjoy the now, which was the future sometime in the past!",
+	"src":"https://user-images.githubusercontent.com/41512314/52175340-37864680-27c8-11e9-8522-d41a330ff69e.jpg",
+	"episodes": [{
+		"title": "Crazy Stupid Love",
+		"subTitle": "EPISODE 1",
+		"length": "8:13",
+		"yt_id": "ztGIsPDsA2A"
+	}, {
+		"title": "Valetines Day Pressure",
+		"subTitle": "EPISODE 2",
+		"length": "11:48",
+		"yt_id": "v9iInif1XOA"
+	},{
+		"title": "Wife Knows Better",
+		"subTitle": "EPISODE 3",
+		"length": "6:05",
+		"yt_id": "t_iSI89ZxYU"
+	},{
+		"title": "Read Between The Lines",
+		"subTitle": "EPISODE 4",
+		"length": "7:21",
+		"yt_id": "Q9Tk-M0FcuI"
+	},{
+		"title": "Biwi Ki Generalizations",
+		"subTitle": "EPISODE 5",
+		"length": "5:29",
+		"yt_id": "GqVZrcSDVBY"
+	},{
+		"title": "Kuch Yaad Hai?",
+		"subTitle": "EPISODE 6",
+		"length": "7:54",
+		"yt_id": "pSjcNiWiKfI"
+	},{
+		"title": "Biwi Ki Foresight",
+		"subTitle": "EPISODE 7",
+		"length": "7:39",
+		"yt_id": "P9Gow62mFrI"
+	},{
+		"title": "When Biwi Is A Control Freak",
+		"subTitle": "EPISODE 8",
+		"length": "8:20",
+		"yt_id": "eeoXjJVTtY4"
+	},{
+		"title": "Biwi Ka Missing Parcel",
+		"subTitle": "EPISODE 9",
+		"length": "8:20",
+		"yt_id": "Ycj0BddX-Mc"
+	},{
+		"title": "Biwi Ki Interference",
+		"subTitle": "EPISODE 10",
+		"length": "7:07",
+		"yt_id": "sTSlxygIJpY"
+	}],
+	"UID": "id_the_better_half_season_2"
 }
