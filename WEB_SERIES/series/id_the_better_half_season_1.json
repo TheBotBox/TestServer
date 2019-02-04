@@ -1,5 +1,51 @@
 {
-
-"UID":"id_the_better_half_season_1"
-
+	"title": "The Better Half",
+	"subTitle": "SEASON 1 - HINDI",
+	"cast": "Cast: Chhavi Mittal, Sukant Goel",
+	"genre": "Entertainment",
+	"rating": "2.5",
+	"views": "2.7M",
+	"description":"When the husband and wife have a clear case of miscommunication, who has the last word? Watch to find out if what happens with RISHI & ROHINI is what happens with you too",
+	"episodes": [{
+		"title": "The Miscommunication",
+		"subTitle": "EPISODE 1",
+		"length": "7:21",
+		"yt_id": "ww3TnwA8hCI"
+	}, {
+		"title": "Hum Kisise Kum Nahin",
+		"subTitle": "EPISODE 2",
+		"length": "10:33",
+		"yt_id": "paSokFUb75w"
+	},{
+		"title": "Biwi Ki Expectations",
+		"subTitle": "EPISODE 3",
+		"length": "4:03",
+		"yt_id": "yGQtdFlpn08"
+	},{
+		"title": "Biwi Se Discussion",
+		"subTitle": "EPISODE 4",
+		"length": "9:09",
+		"yt_id": "nOSmuMlQw84"
+	},{
+		"title": "Biwi Ka BDay",
+		"subTitle": "EPISODE 5",
+		"length": "13:28",
+		"yt_id": "YDLazmWmYac"
+	},{
+		"title": "Diwi Ka Pyar",
+		"subTitle": "EPISODE 6",
+		"length": "10:51",
+		"yt_id": "SHp_uTtMitM"
+	},{
+		"title": "The Diwali Hustle",
+		"subTitle": "EPISODE 7",
+		"length": "7:13",
+		"yt_id": "u2vKFPLZJe0"
+	},{
+		"title": "Diwi ke Diet Plans",
+		"subTitle": "EPISODE 8",
+		"length": "10:34",
+		"yt_id": "MyGn84kUhms"
+	}],
+	"UID": "id_the_better_half_season_1"
 }
