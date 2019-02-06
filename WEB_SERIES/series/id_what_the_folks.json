@@ -1,42 +1,37 @@
 {
 	"title": "What The Folks",
-	"subTitle": "SEASON 2 - HINDI",
-	"cast": "Cast: Eisha Chopra, Renuka Shahane, Shishir Sharma",
+	"subTitle": "SEASON 1 - HINDI",
+	"cast": "Cast: Anula Navlekar, baldev Trehan, Deepika Deshpandey",
 	"genre": "Comedy",
-	"rating": "4.9",
-	"views": "48.9M",
-	"description":"This time around, Dice Media takes you to Nikhil's side of the family - the affable Solanki's - as Anita now tries to be a part of this crazy family!",
-	"src":"https://user-images.githubusercontent.com/41512314/52175340-37864680-27c8-11e9-8522-d41a330ff69e.jpg",
+	"rating": "3.7",
+	"views": "7.6M",
+	"description": "What The Folks is a journey of how modern families are breaking stereotypes overcoming generation gaps, and growing to love one another, despite having starkly different world views.",
+	"src": "https://user-images.githubusercontent.com/41512314/52175340-37864680-27c8-11e9-8522-d41a330ff69e.jpg",
 	"episodes": [{
-		"title": "Welcome Home",
+		"title": "Arranged Family",
 		"subTitle": "EPISODE 1",
-		"length": "25:11",
-		"yt_id": "z-8FSPKWN6s"
+		"length": "28:55",
+		"yt_id": ""
 	}, {
-		"title": "Surprise, Surprise",
+		"title": "The Mad House",
 		"subTitle": "EPISODE 2",
-		"length": "24:10",
-		"yt_id": "72I-I9kCKn8"
+		"length": "26:17",
+		"yt_id": "-9RmgGoHgu8"
 	}, {
-		"title": "Spilling the Beans",
+		"title": "Conditions Apply",
 		"subTitle": "EPISODE 3",
-		"length": "23:52",
-		"yt_id": "oj-3y0G_bUM"
-	},{
-		"title": "Somthings Missing",
+		"length": "28:56",
+		"yt_id": "bTNUBaCBYrc"
+	}, {
+		"title": "Stuck In Middle",
 		"subTitle": "EPISODE 4",
-		"length": "23:39",
-		"yt_id": "L6h4eKq622Y"
-	},{
-		"title": "House of Cards",
-		"subTitle": "EPISODE 5",
-		"length": "20:55",
-		"yt_id": "Jr8T7xNqMdc"
-	},{
+		"length": "20:06",
+		"yt_id": "iSoRbidAC3U"
+	}, {
 		"title": "Home",
-		"subTitle": "EPISODE 6",
-		"length": "30:46",
-		"yt_id": "BQnhQ6RqMI0"
+		"subTitle": "EPISODE 5",
+		"length": "26:35",
+		"yt_id": "PlIFxmQ3Jq8"
 	}],
-	"UID": "id_what_the_folks"
+	"UID": "id_what_the_folks_season_2"
 }
