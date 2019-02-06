@@ -6,7 +6,13 @@
 		"UID": "id_mohabbat_karna_mana_hai"
 	}],
 
-	"all_series": [{
+	"all_series": [
+		{
+		"src": "https://user-images.githubusercontent.com/41512314/52175340-37864680-27c8-11e9-8522-d41a330ff69e.jpg",
+		"title": "What The Folks",
+		"subTitle": "Eisha Chopra, Renuka",
+		"UID": "id_what_the_folks"	
+		},{
 		"src": "https://user-images.githubusercontent.com/41512314/52175340-37864680-27c8-11e9-8522-d41a330ff69e.jpg",
 		"title": "Girls Hostel",
 		"subTitle": "Ahsaas Channa, Srishti",
