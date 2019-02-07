@@ -1,0 +1,37 @@
+{
+	"title": "Weekends",
+	"subTitle": "SEASON 1 - HINDI",
+	"cast": "Cast: Prabal Panjabi, Gurpreet Saini, Pranay",
+	"genre": "Comedy",
+	"rating": "4.9",
+	"views": "28M",
+	"description": "Everyone hates Mondays. And the only thing thats hated more than a Monday is working on weekend. After being instructed by Boss that two of them must attend a client meeting on the weekend",
+	"src": "https://user-images.githubusercontent.com/41512314/52175340-37864680-27c8-11e9-8522-d41a330ff69e.jpg",
+	"episodes": [{
+		"title": "The Weekday",
+		"subTitle": "EPISODE 1",
+		"length": "16:02",
+		"yt_id": ""
+	}, {
+		"title": "The Date",
+		"subTitle": "EPISODE 2",
+		"length": "17:37",
+		"yt_id": ""
+	}, {
+		"title": "Baap Baap Hota Hai",
+		"subTitle": "EPISODE 3",
+		"length": "16:27",
+		"yt_id": ""
+	}, {
+		"title": "The Working Weekend",
+		"subTitle": "EPISODE 4",
+		"length": "21:44",
+		"yt_id": ""
+	}, {
+		"title": "The House Party",
+		"subTitle": "EPISODE 5",
+		"length": "29:03",
+		"yt_id": ""
+	}],
+	"UID": "id_weekends"
+}
