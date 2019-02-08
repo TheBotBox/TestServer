@@ -1,0 +1,42 @@
+{
+	"title": "Dilliwood",
+	"subTitle": "SEASON 1 - HINDI",
+	"cast": "Cast: Sumit Gulati, Nupur Nagpal, Hemant Pandey",
+	"genre": "Comedy",
+	"rating": "4.6",
+	"views": "15.7M",
+	"description":"MensXP presents to you its first web series, Dillowood! What happens when 3 Delhi boys try to make it big in Bollywood? Find out about their journey in this series that will keep you hooked!",
+	"src":"https://user-images.githubusercontent.com/41512314/52180808-c7e87980-2810-11e9-90ba-6bf1dac85543.jpg",
+	"episodes": [{
+		"title": "Bollywood Ki Bhains Ki Tait!",
+		"subTitle": "EPISODE 1",
+		"length": "20:39",
+		"yt_id": "3pv2pLjyTuE"
+	}, {
+		"title": "Chachu Of Liberty",
+		"subTitle": "EPISODE 2",
+		"length": "13:58",
+		"yt_id": "aycyv6jGgk4"
+	},{
+		"title": "Heroine Kaun Hai",
+		"subTitle": "EPISODE 3",
+		"length": "17:19",
+		"yt_id": "OawrIwqy_Do"
+	},{
+		"title": "Ab Banale Apni Film",
+		"subTitle": "EPISODE 4",
+		"length": "17:17",
+		"yt_id": "ZFJH-Lvkm3Y"
+	},{
+		"title": "Film Ka Naam Hai 'Taxi'",
+		"subTitle": "EPISODE 5",
+		"length": "27:40",
+		"yt_id": "fqxHD-0RTfU"
+	},{
+		"title": "Ab Bollywood Nahi, Dilliwood!",
+		"subTitle": "EPISODE 6",
+		"length": "21:45",
+		"yt_id": "kt6QUEk60TY"
+	}],
+	"UID": "id_dilliwood"
+}
